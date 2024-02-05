@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "stripe": "^14.14.0"
+  },
+  "name": "vinted-back",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
